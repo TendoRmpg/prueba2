@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Tendo\\Desktop\\ramas\\prueba2\\Views\\Home\\rama2.cshtml",
+      "TargetPath": "Views\\Home\\rama2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Tendo\\Desktop\\ramas\\prueba2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16335,6 +16340,11 @@
     {
       "FilePath": "c:\\Users\\Tendo\\Desktop\\ramas\\prueba2\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tendo\\Desktop\\ramas\\prueba2\\Views\\Home\\rama3.cshtml",
+      "TargetPath": "Views\\Home\\rama3.cshtml",
       "FileKind": "mvc"
     },
     {
