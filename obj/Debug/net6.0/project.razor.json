@@ -16343,6 +16343,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Tendo\\Desktop\\ramas\\prueba2\\Views\\Home\\rama3.cshtml",
+      "TargetPath": "Views\\Home\\rama3.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Tendo\\Desktop\\ramas\\prueba2\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
